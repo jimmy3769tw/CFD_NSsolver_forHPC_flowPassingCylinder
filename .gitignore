@@ -1,0 +1,4 @@
+*.o
+mx_out/*.q
+
+mx_out/*.x
